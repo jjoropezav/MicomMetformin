@@ -30,12 +30,11 @@ The analysis is directly based on the methodologies described in the accompanyin
 
 - **Metformin_micom.ipynb:** Contains the main analysis pipeline and metabolic flux simulations.
 - **KOs metformin.ipynb:** Performs bacterial knockout analyses to explore cooperative and competitive interactions within the microbial community.
-
 ---
 
 ## Installation
 
-We use MICOM for metabolic modeling from https://micom-dev.github.io/micom/ by Cristian Diener
+We used MICOM for metabolic modeling from https://micom-dev.github.io/micom/ by Cristian Diener (https://msystems.asm.org/content/5/1/e00606-19)
 
-pip install micom 
+Use pip install micom
 
