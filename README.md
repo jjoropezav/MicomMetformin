@@ -22,7 +22,6 @@ The repository includes two Jupyter notebooks that implement microbial community
 This project uses genome-scale community metabolic modeling (MICOM) to:
 
 - **Simulate Metabolic Fluxes:** Assess the metabolic activity of the gut microbiota in prediabetic patients.
-- **Time-Dependent Analysis:** Evaluate changes induced by metformin treatment at baseline, 6 months, and 12 months.
 - **Dietary Impact:** Compare how different dietary patterns (Western, Mediterranean, and Milpa) affect microbial metabolic fluxes.
 - **Knockout Analysis:** Explore bacterial knockout experiments to analyze microbial community dynamics.
 
