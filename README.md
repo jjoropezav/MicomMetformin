@@ -31,6 +31,8 @@ The analysis is directly based on the methodologies described in the accompanyin
 - **KOs metformin.ipynb:** Performs bacterial knockout analyses to explore cooperative and competitive interactions within the microbial community.
 ---
 
+Agora version 2 is uploaded on this drive link for reproducibility: https://drive.google.com/file/d/1oNqMBAUkEuZ6Wx-iWq67foJeMWhZEM6g/view?usp=sharing
+
 ## Installation
 
 We used MICOM for metabolic modeling from https://micom-dev.github.io/micom/ by Cristian Diener (https://msystems.asm.org/content/5/1/e00606-19)
